@@ -9,17 +9,23 @@
 }
 .main-div nav {
   border: 1px solid black;
-  background-color: green;
+  background-color: blue;
 }
 .main-div nav .nav-logo-nav {
-  border: 1px solid black;
+  border: 10px solid black;
+  background-color: skyblue;
 }
 .main-div nav .nav-logo-nav .logo {
-  border: 1px solid black;
+  border: 20px solid black;
+  background-color: black;
+  height: 4px;
+  width: 2px;
 }
 .main-div nav .nav-btn-div {
   border: 1px solid black;
+  background-color: grey;
 }
 .main-div nav .nav-btn-div .nav-btn {
   border: 1px solid black;
+  background-color: black;
 }/*# sourceMappingURL=style.css.map */

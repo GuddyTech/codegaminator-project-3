@@ -15,21 +15,31 @@ $bgColor5: grey;
 
     nav {
         border: 1px solid black;
-        background-color: $bgColor1;
+        background-color: $bgColor2;
     
         .nav-logo-nav {
-            border: 1px solid black;
+            border: 10px solid black;
+            background-color: $bgColor3;
+
     
             .logo {
-                border: 1px solid black;
+                border: 20px solid black;
+                background-color: $bgColor4;
+                height: 4px;
+                width: 2px;
+
             }
         }
     
         .nav-btn-div {
             border: 1px solid black;
+            background-color: $bgColor5;
+
             
             .nav-btn {
                 border: 1px solid black;
+                background-color: $bgColor4;
+
             }
         }
     }
