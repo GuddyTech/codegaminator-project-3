@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.main-div {
+  border: 1px solid black;
+  background-color: green;
+}
+.main-div nav {
+  border: 1px solid black;
+  background-color: green;
+}
+.main-div nav .nav-logo-nav {
+  border: 1px solid black;
+}
+.main-div nav .nav-logo-nav .logo {
+  border: 1px solid black;
+}
+.main-div nav .nav-btn-div {
+  border: 1px solid black;
+}
+.main-div nav .nav-btn-div .nav-btn {
+  border: 1px solid black;
+}/*# sourceMappingURL=style.css.map */
